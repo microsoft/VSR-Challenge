@@ -16,12 +16,21 @@ Figure 5: Thumbnail images of the Track 3 training set.
 
 Below are the links to the list of files in the training and validation sets for this track. Use the utility script, [downloader.py](../download/downloader.py), to download the files.
 
+
 | Type | Train | Validation | Test |
 | ---- | ----- | ---------- | ---- |
-| Ground Truth | train_gt | [val_gt](../download/links/track3_val_gt.txt) | -- |
-| Low resolution + compression | train_lr_h265 | [val_lr_h265](../download/links/track3_val_lr_h265.txt) | To be sent to registered teams* |
+| Ground Truth | [train_gt](../download/links/track3_train_gt.txt) | [val_gt](../download/links/track3_val_gt.txt) | -- |
+| Low resolution + compression | [train_lr_h265](../download/links/track3_train_lr_h265.txt) | [val_lr_h265](../download/links/track3_val_lr_h265.txt) | To be sent to registered teams* |
 
 * Links for the test set will be sent to registered teams one week before the challenge ends.
+
+Dataset size:
+
+| Type | Train | Validation | Test |
+| ---- | ----- | ---------- | ---- |
+| Ground Truth |1512 | 15 | 20 |
+| Low resolution + compression | 9072 | 90 | 120 |
+
 
 ## File Preparation
 

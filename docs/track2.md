@@ -22,6 +22,13 @@ Below are the links to the list of files in the training and validation sets for
 | Low resolution + compression | [train_lr_h265](../download/links/track2_train_lr_h265.txt) | [val_lr_h265](../download/links/track2_val_lr_h265.txt) | To be sent to registered teams* |
 
 * Links for the test set will be sent to registered teams one week before the challenge ends.
+Dataset size:
+
+| Type | Train | Validation | Test |
+| ---- | ----- | ---------- | ---- |
+| Ground Truth |270 | 5 | 20 |
+| Low resolution + compression | 1620 | 30 | 120 |
+
 
 ## File Preparation
 

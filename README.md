@@ -16,6 +16,7 @@ This repository aims to provide the **training set** and **validation set** for 
 For more information about the challenge, timeline, and registration, visit the [ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing](https://www.microsoft.com/en-us/research/academic-program/video-super-resolution-challenge-icme-2025/challenge/) web page.
 
 ## News
+- Feb 11, 2025: Training set and extended validation set fro Track3 are available for download. 
 - Feb 3, 2025: Training and validation sets for Track 1 and 2, and validation set for Track 3 are available.
 
 ## Download
