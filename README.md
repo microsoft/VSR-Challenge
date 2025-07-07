@@ -1,5 +1,5 @@
 # Grand Challenge on Video Super-Resolution for Video Conferencing - ICME 2025
-[[challenge website](https://www.microsoft.com/en-us/research/academic-program/video-super-resolution-challenge-icme-2025/challenge/)]
+[[challenge website](https://www.microsoft.com/en-us/research/academic-program/video-super-resolution-challenge-icme-2025/challenge/)], [[arXiv](https://arxiv.org/pdf/2506.12269)]
 
 The Grand Challenge on Video Super-Resolution for Video Conferencing at ICME 2025 is intended to stimulate research in the area of Video Super Resolution in communication systems.
 
@@ -13,11 +13,26 @@ There are three tracks specific to video content:
 
 This repository aims to provide the **training set** and **validation set** for each track. The test sets will be provided close to the end of the competition to the registered teams.
 
-For more information about the challenge, timeline, and registration, visit the [ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing](https://www.microsoft.com/en-us/research/academic-program/video-super-resolution-challenge-icme-2025/challenge/) web page.
+For more information about the challenge, timeline, and registration, visit the [website](https://www.microsoft.com/en-us/research/academic-program/video-super-resolution-challenge-icme-2025/challenge/).
 
-## News
-- Feb 11, 2025: Training set and extended validation set fro Track3 are available for download. 
-- Feb 3, 2025: Training and validation sets for Track 1 and 2, and validation set for Track 3 are available.
+The description of the datasets, baseline models, and final results of challenge are presented in ICME2025 paper:
+
+   - [ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing](https://arxiv.org/pdf/2506.12269), ICME,2025. 
+
+
+## Citation
+
+If you use this dataset in a publication please cite the following paper:
+```BibTex
+
+@article{naderi2025icme,
+  title={ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing},
+  author={Naderi, Babak and Cutler, Ross and Cho, Juhee and Khongbantabam, Nabakumar and Ivkovic, Dejan},
+  journal={arXiv preprint arXiv:2506.12269},
+  year={2025}
+}
+
+```
 
 ## Download
 
